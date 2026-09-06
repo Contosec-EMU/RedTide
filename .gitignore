@@ -1,0 +1,44 @@
+# Runtime output and local state
+logs/
+*.log
+baseline-state.json
+*-baseline*.json
+EP-backup.xml
+MDE-Demo/
+demo/
+artifacts/
+TestResults/
+*.trx
+test-results*.xml
+.test-artifacts/
+.redtide-test-functions-*.ps1
+_temp_test_functions.ps1
+*.tmp
+*.temp
+*.bak
+*.clixml
+
+# Environment, credentials, and Azure context exports
+.env
+.env.*
+*.local.*
+*azcontext*.json
+*az-context*.json
+*azure-context*.json
+*credentials*.json
+*.publishsettings
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Downloaded lab payloads and unreviewed Office documents
+*.exe
+*.zip
+*.docm
+
+# Editor and operating-system state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="160" viewBox="0 0 540 160" role="img" aria-labelledby="title description">
+  <title id="title">RedTide</title>
+  <desc id="description">RedTide's red terminal wordmark. Attack simulations for endpoint protection.</desc>
+  <g fill="#d73a49" font-family="'Courier New', Courier, monospace" font-size="24" font-weight="bold">
+    <text xml:space="preserve" x="8" y="28"> ____           _ _____ _     _</text>
+    <text xml:space="preserve" x="8" y="50">|  _ \ ___  __| |_   _(_) __| | ___</text>
+    <text xml:space="preserve" x="8" y="72">| |_) / _ \/ _` | | | | |/ _` |/ _ \</text>
+    <text xml:space="preserve" x="8" y="94">|  _ &lt;  __/ (_| | | | | | (_| |  __/</text>
+    <text xml:space="preserve" x="8" y="116">|_| \_\___|\__,_| |_| |_|\__,_|\___|</text>
+  </g>
+  <text x="8" y="149" fill="#777777" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="0.8">ATTACK SIMULATIONS FOR ENDPOINT PROTECTION</text>
+</svg>
